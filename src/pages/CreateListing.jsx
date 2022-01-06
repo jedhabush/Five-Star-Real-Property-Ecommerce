@@ -32,7 +32,7 @@ const CreateListing = () => {
     latitude: 0,
     longitude: 0,
   });
-  // Destructure formData form simplicity
+  // Destructure formData for simplicity
   // eslint-disable-next-line
   const {
     type,
@@ -153,7 +153,7 @@ const CreateListing = () => {
     /* direct to categoty page after listing is loaded */
   };
 
-  //onMutate funciton
+  //onMutate funciton handles user inputs
   const onMutate = (e) => {
     let boolean = null;
     if (e.target.value === "true") {
