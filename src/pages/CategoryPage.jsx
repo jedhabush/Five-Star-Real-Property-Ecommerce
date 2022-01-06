@@ -80,7 +80,7 @@ const CategoryPage = () => {
       // Implement the query
       const querySnap = await getDocs(q);
 
-      //to load more properties in the page
+      //to load more properties on the page
       const lastVisible = querySnap.docs[querySnap.docs.length - 1];
       setLastFetchedListing(lastVisible);
 
