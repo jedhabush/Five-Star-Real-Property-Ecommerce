@@ -4,7 +4,7 @@ import { getAuth, onAuthStateChanged } from "firebase/auth";
 export const useAuthStatus = () => {
   //
   const [loggedIn, setLoggedIn] = useState(false);
-  // This to check if we are logged in then change setLoadingStatus to false but SetLoggedIn to true
+  // Check if user is logged in then change setLoadingStatus to false but SetLoggedIn to true
   const [loadingStatus, setLoadingStatus] = useState(true);
 
   const isMounted = useRef(true);
