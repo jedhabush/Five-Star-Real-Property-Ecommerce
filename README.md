@@ -9,6 +9,7 @@ A property ecommerce project.
 - Allow users to create their own property listing by providing the property details such as name, address, price, upload property images up to 6 imgaes and more options. 
 - Allow users to delete the property from their listing.
 - Allow users to contact the owner to ask for more information about the property.
+- Allow users to load more properties if there are any. set to display 4 properties at a time by default.
 - Allow users to copy the property listing link by clicking on the clipboard icon.
 
 **Technologies:**
