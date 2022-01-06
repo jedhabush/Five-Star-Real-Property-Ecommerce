@@ -5,6 +5,7 @@ A property ecommerce project.
 - Allow users to navigate different property listings for rent or properties for sale. 
 - Allow users to login by signing up using an email and password or by using their Google account.
 - Allow users to reset thier passowrd by using forgot password feature.
+- Allow users to edit/update their personal information on their profile page.
 - Allow users to create their own property listing by providing the property details such as name, address, price, upload property images up to 6 imgaes and more options. 
 - Allow users to delete the property from their listing.
 - Allow users to contact the owner to ask for more information about the property.
