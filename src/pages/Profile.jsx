@@ -159,7 +159,7 @@ const Profile = () => {
           <img src={arrowRight} alt="arrow right" />
         </Link>
 
-        {/* Show user listings in their progile if there's any */}
+        {/* Show user listings in their progile if there are any */}
         {!loading && listings?.length > 0 && (
           <>
             <p className="listingText">Your Property Listings</p>
