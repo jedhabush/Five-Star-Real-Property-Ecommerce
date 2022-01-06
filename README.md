@@ -1,7 +1,7 @@
 # Five-Star-Real-Property-Ecommerce
 A property ecommerce project. 
 
-Features:
+**Features:**
 - Allow users to navigate different property listings for rent or properties for sale. 
 - Allow users to login by signing up using an email and password or by using their Google account.
 - Allow users to reset thier passowrd by using forgot password feature.
@@ -9,22 +9,22 @@ Features:
 - Allow users to delete the property from their listing.
 - Allow users to contact the owner to ask for more information about the property.
 
-Technologies:
+**Technologies:**
 - Website is fully developed using Reactjs.
 - All data are completely saved and retrieved from Firebase DB Version 9.
 - Google Authentication is implemented to allow users to login using their google account.
 - Users passwords are deleted before sending data to Firbase DB upon signing up for security purposes.
-- React-toastify package is used to propmt users.
+- React-toastify package is used to prompt users.
 - Sass is used for styling and improve website responsiveness on different devices.
 - Latest react router version 6 is being used.
 - SwiperCore is used to create a nice carousel component.
 
 ------------
-Fun Fact!
-There's an easter egg somewhere in the website can you find it? ^_^
+**Fun Fact!**
+- There's an easter egg somewhere in the website can you find it? ^_^
 
 ------------
-Possible Improvements:
+**Possible Improvements:**
 - Add Geolocation component to show property location on the map.
 - Enhance user interface.
 - Allow users to edit/change property details.
@@ -39,7 +39,7 @@ https://five-star-real-property.netlify.app/
 
 
 ------------
-Available Scripts
+**Available Scripts**
 In the project directory, you can run:
 
 # ```npm start```
