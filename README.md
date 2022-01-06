@@ -16,7 +16,7 @@ A property ecommerce project.
 - Website is fully developed using Reactjs.
 - All data are completely saved and retrieved from Firebase DB Version 9.
 - Google Authentication is implemented to allow users to login using their google account.
-- Users passwords are deleted before sending data to Firbase DB upon signing up for security purposes.
+- Users passwords are hidden before sending data to Firbase DB upon signing up for security purposes.
 - React-toastify package is used to prompt users.
 - Sass is used for styling and improve website responsiveness on different devices.
 - Latest react router version 6 is being used.
