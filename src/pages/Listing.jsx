@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 import { db } from "../firebase.config";
 import Spinner from "../components/Spinner";
 import shareIcon from "../assets/svg/shareIcon.svg";
-// importing needed depndecies for the slider
+// importing needed depndecies for the carousel 
 import SwiperCore, {
   Navigation,
   Pagination,
