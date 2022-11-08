@@ -1,3 +1,9 @@
+# Live Version 
+https://five-star-real-property.netlify.app/
+
+
+
+------------
 # Five-Star-Real-Property-Ecommerce
 A property ecommerce project. 
 
@@ -36,12 +42,7 @@ A property ecommerce project.
 
 
 ------------
-# Live Version 
-https://five-star-real-property.netlify.app/
 
-
-
-------------
 **Available Scripts**
 In the project directory, you can run:
 
