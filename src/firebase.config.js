@@ -3,12 +3,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBQbmC85HW24kQqwyNrwiRayRrpzfLG2FY",
-  authDomain: "ecommerce-app-bdd90.firebaseapp.com",
-  projectId: "ecommerce-app-bdd90",
-  storageBucket: "ecommerce-app-bdd90.appspot.com",
-  messagingSenderId: "725553706043",
-  appId: "1:725553706043:web:f0974ed309d0272d2d981e",
+  //Here where you configure your own Firebase configs
 };
 
 // Initialize Firebase
