@@ -1,6 +1,8 @@
 # Live Version 
 https://five-star-real-property.netlify.app/
 
+# Image of application
+![alt text](https://github.com/jedhabush/Five-Star-Real-Property-Ecommerce/blob/main/ecomIMG.png)
 
 
 ------------
