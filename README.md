@@ -26,7 +26,7 @@ A property ecommerce project. The main goal of the project was to build E-commer
 - Google Authentication is implemented to allow users to login using their google account.
 - Users passwords are hidden before sending data to Firbase DB upon signing up for security purposes.
 - React-toastify package is used to prompt users.
-- Sass is used for styling and improve website responsiveness on different devices.
+- Sass is used for styling and improving website responsiveness on different devices.
 - Latest react router version 6 is being used.
 - SwiperCore is used to create a nice carousel component.
 
