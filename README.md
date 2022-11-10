@@ -7,7 +7,7 @@ https://five-star-real-property.netlify.app/
 
 ------------
 # Five-Star-Real-Property-Ecommerce
-A property ecommerce project. The main goal of the project was to build E-commerce site using the learnt skills inlcuding but not limited to Scss, reactJs and fireBaseDB. As always, I prefer to go beyond the given MVP and create more interesting site that represents my capabilities. The ecommerece site was built from scratch. Took a lot of time from fixing stubborn bugs to watching tons of tutorials. I enjoyed every single bit of it. The idea on how things go hand in hand to create a harmoney between variety of tech stacks is an outstanding experience. It is like solving a puzzle, you might have a general idea how to approach the puzzle but the secret remains in how to utilize the little pieces to solve it.
+A property ecommerce project. The main goal of the project was to build E-commerce site using the learnt skills including but not limited to Scss, reactJs and fireBaseDB. As always, I prefer to go beyond the given MVP and create more interesting site that represents my capabilities. The ecommerece site was built from scratch. Took a lot of time from fixing stubborn bugs to watching tons of tutorials. I enjoyed every single bit of it. The idea on how things go hand in hand to create a harmoney between variety of tech stacks is an outstanding experience. It is like solving a puzzle, you might have a general idea how to approach the puzzle but the secret remains in how to utilize the little pieces to solve it.
 
 **Features:**
 - Allow users to navigate different property listings for rent or properties for sale. 
